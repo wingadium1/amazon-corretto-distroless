@@ -1,0 +1,1 @@
+BASE_ARCHITECTURES = ["x64", "arm64"]
